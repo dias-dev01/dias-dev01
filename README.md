@@ -81,17 +81,6 @@ Me chamo João Pedro Dias de Moraes, tenho 22 anos e sou natural do Rio de Janei
 
 ---
 
-### 🔥 Status Automáticos
-
-<div align="center">
-  
-  | 🔧 Métrica | 📊 Status |
-  |------------|-----------|
-  | ⭐ **Total de Estrelas** | ![Stars](https://img.shields.io/github/stars/dias-dev01?style=for-the-badge&label=⭐&color=yellow) |
-  | 📝 **Commits no Ano** | ![Commits](https://img.shields.io/badge/🚀-Atualizado%20Automaticamente-brightgreen?style=for-the-badge) |
-  | 💾 **Repositórios** | ![Repos](https://img.shields.io/badge/📦-Automático-blue?style=for-the-badge) |
-
-</div>
 
 ---
 
