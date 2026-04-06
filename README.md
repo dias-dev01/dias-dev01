@@ -62,29 +62,11 @@ Me chamo João Pedro Dias de Moraes, tenho 22 anos e sou natural do Rio de Janei
 
 ---
 
-### 📊 Estatísticas
-
-<div align="center">
-  <a href="https://github.com/dias-dev01">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dias-dev01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dias-dev01&layout=compact&langs_count=8&theme=tokyonight"/>
-  </a>
-</div>
-
----
-
-### 🏆 Conquistas Automáticas
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dias-dev01&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15"/>
-</div>
-
----
 
 ### 📫 Onde me encontrar
 
 <div align="center">
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:joaodiasmoraes51@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/seu-perfil">
